@@ -3,8 +3,10 @@
 
 
 
-# Hey! 👋 Nice to see you. #
-
+<h3 align="center">
+  Hi, I'm Abdalrahman Alhamod
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 
 [<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
