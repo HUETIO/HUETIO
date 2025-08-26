@@ -1,188 +1,46 @@
-<p align="right"> <img src="https://gpvc.arturio.dev/austinae" alt="Contador de visitas al perfil" /> </p>
+<!--suppress HtmlDeprecatedAttribute -->
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 
-<div align="center">
 
 
-![Parte superior de la pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+# Hey! 👋 Nice to see you. #
 
-<details>
-<summary>Abrir perfil</summary>
 
-[comment]: <> (Contador de visualizaciones)
-<br>
-<div>
-  <div align=center>
-      <img height="200" alt="Foto de avatar de William Guerrand" src="https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=A89568&center=true&vCenter=true&width=500&lines=Hola%2C+soy+Austinae;también+conocido+como+William+Guerrand;¡Bienvenido+a+mi+perfil!;Descripción+sobre+mí%3A;Desarrollador+Full+Stack;Curioso+por+naturaleza;Entusiasta+de+la+IA;Amante+del+ajedrez;Seguro+y+ambicioso;Atleta+de+larga+distancia;Joven+de+corazón;Toco+la+guitarra;Amante+de+la+adrenalina" alt="SVG que escribe" /></a>
-  </div>
-</div>
 
-<details>
-<summary>Sobre mí</summary>
+[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="python" width="100">](https://docs.python.org/3/library/index.html)
+[<img src="https://cdn.iconscout.com/icon/free/png-128/java-2038875-1720088.png" alt="java" width="100">](https://docs.oracle.com/en/java/)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/kotlin-283155.png" alt="kotlin" width="100">](https://kotlinlang.org/docs/home.html)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/android-3521272-2944776.png" alt="android" width="100">](https://developer.android.com/reference)
+[<img src="https://hsto.org/webt/5b/2e/6a/5b2e6a4a389cc942256392.png" alt="golang" width="100">](https://golang.org/doc/)
 
-[//]: # (Debes tener un salto de línea antes del elemento markdown dentro de un bloque para que funcione: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<div align="left">
 
-```js
-/**
- * Me representa.
- * @constructor
- * @param {string} ciudad - París, Francia.
- * @param {string} idiomas - Inglés, Francés.
- * @param {string} puesto - Desarrollador Full Stack.
- * @param {string} especializacion - Construcción de aplicaciones web completas.
- * @param {string} intereses - IA, escritura y resolución de problemas.
- * @param {string} hobbies - Escalada, lectura, triatlones y tocar música.
- * @param {string} formacion - BSc CompSci, Universidad de Lancaster.
- * @param {string} accesible - Sí, para colaborar en proyectos emocionantes, no dudes en contactarme.
- * @param {string} fortaleza - Resuelto.
- * @param {string} debilidad - Timidez.
- * @param {Date} cumpleaños - 14 de diciembre de 2000.
- * @throws {Golpe} A todos y cada uno de los bugs.
- * @returns {Object} Austinae.
- */
+[<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" width="65">](mailto:voko.aleksey@gmail.com)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="telegram" width="50">](https://t.me/voko_aleksey)
+[<img src="https://avatars.githubusercontent.com/u/92794071?s=200&v=4" alt="OldCodersClub" width="50">](https://t.me/oldcodersclub)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://ru.stackoverflow.com/users/371584/aleksey-voko)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="stackoverflow" width="50">](https://stackoverflow.com/users/13531449/aleksey-voko)
+[<img src="https://image.winudf.com/v2/image1/cnUuaGFicmFoYWJyX2ljb25fMTU1NTE2NzQwMF8wMTQ/icon.png?w=&fakeurl=1" alt="stackoverflow" width="53">](https://freelance.habr.com/freelancers/Voko_Aleksey)
 
-</div>
-</details>
-<details>
-<summary>Herramientas</summary>
-<div>
-<p style="display: inline-block;" align="center">
-<kbd>
-<kbd>Lenguajes de Programación</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</kbd>
-<kbd>
-<kbd>Back-end</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-</kbd>
-<kbd>
-<kbd>Móvil</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-</kbd>
-<kbd>
-<kbd>Front-end</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
-</kbd>
-<kbd>
-<kbd>Base de datos</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-</kbd>
-<br>
-<br>
-<kbd>
-<kbd>Ciencia de Datos e IA</kbd>
-<br>
-<br>
-<img title="matlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-</kbd>
-<kbd>
-<kbd>Sistemas, Redes y Despliegue</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-</kbd>
-<kbd>
-<kbd>Scripts de Terminal</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-</kbd>
-<kbd>
-<kbd>Herramientas</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img width="30px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-</kbd>
-<kbd>
-<kbd>Desarrollo de Videojuegos</kbd>
-<br>
-<br>
-<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-</kbd>
-</p>
-</div>
-</details>
-<details>
-<summary>Cita</summary>
-<br>
-Una de mis citas favoritas
-<blockquote>
-“¿Puedo decir algo? Um, soy el tipo de persona que si me haces una pregunta y no sé la respuesta, te voy a decir que no lo sé. Pero te apuesto lo que sea, a que sé cómo encontrar la respuesta y la encontraré.”
-<br><strong>Chris Gardner interpretado por Will Smith en la película "En busca de la felicidad" (2006)</strong>
-</blockquote>
-</details>
-<details>
-<summary>Dosis de DOSE gratis</summary>
-<br>
-<small><i>DOSE (dopamina, oxitocina, serotonina y endorfina), actualiza la página si la dosis no fue efectiva.</i></small>
-<br>
-<div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Tarjeta de chistes" /></div>
-</details>
-<details>
-<summary>¿Qué puedo hacer por ti?</summary>
-<table style="border: none">
-<tr>
-<td width="50%" valign="top">
-¡Trabajemos juntos en tu proyecto!
-Si tienes alguna pregunta sobre desarrollo web, redacción de documentación sin errores o IA, no dudes en <a href="mailto:guerrandw@gmail.com">contactarme por correo electrónico</a>, no muerdo, lo prometo.
-</td>
-<td width="50%" valign="top">
-No es perfecto, ¿verdad?
-<img alt="Comentarios" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">
-<blockquote>“Creo que es muy importante tener un ciclo de retroalimentación, en el que constantemente piensas en lo que has hecho y cómo podrías hacerlo mejor.”
-<br><strong>– Elon Musk</strong></blockquote>
-</td>
-</tr>
-</table>
-</details>
-</details>
-![alt text](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-</div>
-<div align=center>
-<a href="https://www.linkedin.com/in/william-ga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-<a href="https://lichess.org/@/Austinae"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Lichess&color=000000&logo=Lichess&logoColor=FFFFFF&label=" alt="Lichess" /></a>
-<a href="mailto:guerrandw@gmail.com?subject=Hi%20William%20,%20nice%20to%20meet%20you!"><img alt="Correo" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-<a href="https://www.williamguerrand.com/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Mi+sitio+web&color=8e7e57&logo=data:image/png;base64,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&label=" alt="Mi sitio web" /></a>
-<a href="https://data.typeracer.com/pit/profile?user=austinae/"><img alt="Typeracer" src="https://img.shields.io/static/v1?style=for-the-badge&message=Typeracer&color=E5B10A&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACiFBMVEUAAACzs7tCQk1lZXa9vcRUVF8FBQYMDA7Fxc1YWGIFBQb////+/v/6+/32+fzy9vru8/nq8ffm7fX29/ni6fH4+fvf5e329/pzc4vQ0Nf6/P3c4Onz9PeKipzQ0NrFxdDa2uD3+fzr8vjp8fjl6/TY2+Xv8PS3t8R4fpJ3d4bIyMzW2dvT19qvtLiHiY1lZmpkZWqEhou9wMi8vcfPz9OUlKF3eIh4f5ckKDI4OD+AgIKAg4Y0NjdnZ25AQEhPUFc/QEc4OEASEhRfX2R8fH9cXGMtLTFFXXpoaHd3d4n09PfGysxPT1ZFRUvU19pydHfX2d6FhYg5OUJNTVHx8fW4uMVmZnZgaH03Mjc7Nz1ra2xEREQxLzI9ODVZWFcXFxcyMjJmYl8hHRwgICJsbGxYV1o1LzQ7OkLIoU26mDN5azOWfWu+j0nHokWmiiZ7c2OidUnGnk6/nDeDciuMe3G5h0bIokiujyn+xmH+vja2hg2FXUD+y3//w07/uyVtUBPUom//yGn/vzzepRJdPir+y4T/xFX+uyuTd1aibzavdyyviTedhS+ObD+xcCusgTeqiTKQdzeecDqvdCmuiDiihzCNbj58WSpraWiTZ0b/0IH/y17+vytqUQ/Tm2H/0Xf/xUnhrhVdPSj/zH//zWb+vzJ+ZQ5tbGy6kkOtjC6LdTq2gEO5hDi4lD6ehSqcekyzdjC7kEOxjjGMdzSzgkq3fjK6lECegST/ymf/wDm4iw6CVzf+zH//xlT/vSdoTAvWoWr/y2z/wUDfqRNaOiT+y4H/yFv/vS2gfleUajA2IggtIBiNdl+hekh6UxwTDghaRjmdflyacDZILgwgFhCCbVqhfE2FXCPGDTnKAAAAC3RSTlMA5pMB86Fydf7ScwkrfWMAAAABYktHRAsf18TAAAAAB3RJTUUH5gwXDg4xwTTQpgAAAElJREFUGNPVirENgDAQxM6ff4pUiCojZP/FkBCIAhRRhBSMgDufD4ksXtYmV2K4kZp8GhUzPG6KYO8ecPXHwQJbZDhF5YvPfxkesdIK8l26GXwAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjItMTItMjNUMTQ6MTQ6NDkrMDA6MDBK6gmDAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIyLTEyLTIzVDE0OjE0OjQ5KzAwOjAwO7exPwAAACh0RVh0ZGF0ZTp0aW1lc3RhbXAAMjAyMi0xMi0yM1QxNDoxNDo0OSswMDowMGyikOAAAAAASUVORK5CYII=&label=" alt="Typeracer" /></a>
-</div>
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksey-Voko&layout=default&theme=gotham&hide=html&hide_border=true&card_width=330)
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+
+[<img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/OldCodersClub?label=OldCodersClub%27s%20Stars&logoColor=red&style=social" align="right">](https://github.com/OldCodersClub/faq)
+
+[![wakatime](https://wakatime.com/badge/user/8cc8aa38-4041-409b-9d27-a85e5b897ad4.svg?style=social)](https://wakatime.com/@8cc8aa38-4041-409b-9d27-a85e5b897ad4)
+[<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Aleksey-Voko?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=repositories&q=&type=&language=&sort=stargazers)
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/Aleksey-Voko?&logoColor=red&style=social">](https://github.com/Aleksey-Voko?tab=followers)
+[<img alt="GitHub forks" src="https://img.shields.io/github/forks/Aleksey-Voko/TranslatorSelenium?logoColor=red&style=social">](https://github.com/Aleksey-Voko/TranslatorSelenium/network/members)
+
+------
+
+[Aleksey-Voko](https://github.com/Aleksey-Voko)
+
+Last Edited on: 16/11/2021
