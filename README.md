@@ -88,25 +88,36 @@
 <br>
 
 ---
-
-<!-- Estadísticas de GitHub -->
+<!-- Sección de Código en Movimiento -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Estadísticas">
-    Mis Estadísticas de GitHub
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35px" alt="Terminal">
+    Apasionado por el Código
   </h2>
-  
-  <!-- IMPORTANTE: Reemplaza "DASH-ByReaper" con tu nombre de usuario de GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DASH-ByReaper&theme=gotham&show_icons=true&count_private=true&hide_border=true" alt="Estadísticas de GitHub de Diego" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DASH-ByReaper&layout=compact&theme=gotham&hide=html,css&hide_border=true" alt="Lenguajes más usados por Diego" width="48%"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DASH-ByReaper&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Racha de Contribuciones de Diego" width="60%"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=DASH-ByReaper&theme=onestar&no-frame=true&column=7&row=1" alt="Trofeos de GitHub de Diego"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animación de código en cascada" width="600"/>
 </div>
-
 <br>
+---
 
+<!-- Sección de Código en Movimiento -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/u2pmLmV6p9TMI/giphy.gif" width="35" alt="Teclado">
+    Siempre Construyendo Algo Nuevo
+  </h2>
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Animación de desarrollo de software" width="600"/>
+</div>
+<br>
+---
+<!-- Sección de Código en Movimiento -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/I27b6iLSjw8W47y2S8/giphy.gif" width="40px" alt="Stack">
+    Programando Soluciones...
+  </h2>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programador escribiendo código" width="600"/>
+</div>
+<br>
 ---
 
 <!-- Conecta Conmigo -->
