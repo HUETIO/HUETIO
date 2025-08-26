@@ -122,11 +122,11 @@
     <a href="mailto:Develop1998@outlook.es">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="[TU_LINK_DE_LINKEDIN]">
+    <a href="[https://www.linkedin.com/in/huetio/]">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://t.me/[TU_USUARIO_TELEGRAM]">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <a href="https://wa.me/573237722134">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
     </a>
   </p>
 </div>
