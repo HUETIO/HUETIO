@@ -145,5 +145,5 @@
 <!-- Footer -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line-break.gif" width="100%" />
-  <p><small>Última actualización: 26 de Agosto de 2025</small></p>
+  <p><small>Última actualización: 08 de Septiembre de 2025</small></p>
 </div>
