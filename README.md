@@ -59,62 +59,90 @@ Actualmente dedico gran parte de mi tiempo a investigar y desarrollar soluciones
 
 # 🚀 Tecnologías
 
-## Lenguajes
+
+
+
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td valign="top" width="20%">
+
+### 💻 Lenguajes
 
 - C++
 - Python
 - Java
-- JavaScript
 - TypeScript
 - SQL
 
-## Frontend
+</td>
+
+<td valign="top" width="20%">
+
+### 🎨 Frontend
 
 - Svelte
-- HTML5
-- CSS3
-- TailwindCSS
+- HTML
+- CSS
+- Tailwind
 - Electron
 
-## Backend
+</td>
+
+<td valign="top" width="20%">
+
+### ⚙ Backend
 
 - Spring Boot
 - Node.js
-- REST APIs
 - PostgreSQL
 - MySQL
+- REST API
 
-## IA
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🤖 IA
 
 - OpenAI
 - Gemini
 - Claude
 - Ollama
-- Transformers
 - LangChain
 - MCP
-- Prompt Engineering
-- RAG
-- Local LLMs
 
-## Game Development
+</td>
 
-- Unreal Engine
+<td valign="top">
+
+### 🎮 Game Dev
+
+- Unreal
 - Godot
 - OpenGL
 - GLFW
 
-## Herramientas
+</td>
 
-- Git
-- GitHub
+<td valign="top">
+
+### 🛠 Herramientas
+
 - Docker
-- Postman
+- Git
 - Blender
 - VS Code
-- IntelliJ IDEA
+- IntelliJ
 
----
+</td>
+</tr>
+</table>
+
 
 # 🧠 Actualmente estoy trabajando en
 
