@@ -1,4 +1,10 @@
 # ¡Hola, soy Diego Alejandro Sepulveda Huetio! 👋
+## 🧑‍💻 Sobre mí
+
+<div align="center">
+  <!-- Animación específica de Redes Neuronales / IA -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E5b3R6eW55b3E5b3R6eW55b3E5b3R6eW55b3E5/MDJ9IbxxvDUQM/giphy.gif" width="250" alt="Neural Network AI">
+</div>
 
 ### Desarrollador Full Stack | Entusiasta de la Tecnología | Creador de Soluciones Digitales
 
@@ -7,15 +13,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+FullStack;Apasionado+por+la+IA+y+DevOps;Creador+de+soluciones+digitales" alt="Typing SVG" />
 </div>
 
+<br>
+
+<!-- 🖼️ CARRUSEL DE FOTOS GENÉRICAS (Desplazamiento infinito) -->
+<!-- Usa fotos reales de alta calidad de Unsplash con temática tecnológica -->
+<div align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="5" width="100%">
+    <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=250&fit=crop" style="border-radius: 12px; margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Coding Setup" />
+    <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=400&h=250&fit=crop" style="border-radius: 12px; margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Artificial Intelligence" />
+    <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=250&fit=crop" style="border-radius: 12px; margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Cloud Computing" />
+    <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=250&fit=crop" style="border-radius: 12px; margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Cybersecurity" />
+    <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=250&fit=crop" style="border-radius: 12px; margin: 0 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" alt="Microchips" />
+  </marquee>
+</div>
+
+<br>
+
+<!-- Animación de separador -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <!-- Ola animada con gradiente de colores -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,25&height=120&section=header&text=&fontSize=0&fontColor=fff&animation=twinkling"/>
 
-## 🧑‍💻 Sobre mí
 
-<div align="center">
-  <!-- Animación específica de Redes Neuronales / IA -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E5b3R6eW55b3E5b3R6eW55b3E5b3R6eW55b3E5/MDJ9IbxxvDUQM/giphy.gif" width="250" alt="Neural Network AI">
-</div>
 
 - 🔭 Actualmente estoy trabajando en **proyectos personales, colaboraciones open source y modelos de IA**
 - 🌱 Aprendiendo sobre **Redes Neuronales, Cloud Computing y DevOps**
