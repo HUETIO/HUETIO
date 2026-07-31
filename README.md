@@ -1,16 +1,207 @@
-# ¡Hola, soy Diego Alejandro Sepulveda Huetio! 👋
-## 🧑‍💻 Sobre mí
+# 👋 Hola, soy Diego Alejandro Sepúlveda Huetio
+
+<div align="center">
+
+### 🚀 Software Engineer • AI Engineer • Full Stack Developer
+
+*"Construyendo el futuro con Inteligencia Artificial, Automatización y Software de Alto Rendimiento."*
+
+</div>
 
 <div align="center">
   <!-- Animación específica de Redes Neuronales / IA -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6eW55b3E5b3R6eW55b3E5b3R6eW55b3E5b3R6eW55b3E5/MDJ9IbxxvDUQM/giphy.gif" width="250" alt="Neural Network AI">
 </div>
 
-### Desarrollador Full Stack | Entusiasta de la Tecnología | Creador de Soluciones Digitales
-
-<!-- Animación de escritura para el título -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+FullStack;Apasionado+por+la+IA+y+DevOps;Creador+de+soluciones+digitales" alt="Typing SVG" />
+
+  <!-- Componente animado en SVG -->
+  <svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+    <!-- Desarrollador Full Stack -->
+    <text x="50" y="40" fill="#FF6B6B" font-size="20" font-weight="bold">
+      ✨ Desarrollador Full Stack
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+    </text>
+    <!-- Entusiasta de la Tecnología -->
+    <text x="50" y="75" fill="#4ECDC4" font-size="20" font-weight="bold">
+      💻 Entusiasta de la Tecnología
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+    </text>
+    <!-- Creador de Soluciones Digitales -->
+    <text x="50" y="110" fill="#FFE66D" font-size="20" font-weight="bold">
+      🚀 Creador de Soluciones Digitales
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" begin="1s" repeatCount="indefinite"/>
+    </text>
+  </svg>
+
+</div>
+
+---
+
+# 🧑‍💻 Sobre mí
+
+Soy un desarrollador de software apasionado por la creación de aplicaciones inteligentes, agentes autónomos y herramientas potenciadas con Inteligencia Artificial.
+
+Mi objetivo es combinar desarrollo tradicional con IA para construir productos que realmente ayuden a las personas.
+
+Actualmente dedico gran parte de mi tiempo a investigar y desarrollar soluciones utilizando:
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Inteligencia Artificial Generativa
+- ⚡ Agentes Autónomos
+- 💻 Desarrollo Full Stack
+- 🖥️ Software Desktop
+- 🎮 Desarrollo de Videojuegos
+- 📊 Automatización de procesos
+- ☁️ APIs y Arquitecturas Backend
+
+---
+
+# 🚀 Tecnologías
+
+## Lenguajes
+
+- C++
+- Python
+- Java
+- JavaScript
+- TypeScript
+- SQL
+
+## Frontend
+
+- Svelte
+- HTML5
+- CSS3
+- TailwindCSS
+- Electron
+
+## Backend
+
+- Spring Boot
+- Node.js
+- REST APIs
+- PostgreSQL
+- MySQL
+
+## IA
+
+- OpenAI
+- Gemini
+- Claude
+- Ollama
+- Transformers
+- LangChain
+- MCP
+- Prompt Engineering
+- RAG
+- Local LLMs
+
+## Game Development
+
+- Unreal Engine
+- Godot
+- OpenGL
+- GLFW
+
+## Herramientas
+
+- Git
+- GitHub
+- Docker
+- Postman
+- Blender
+- VS Code
+- IntelliJ IDEA
+
+---
+
+# 🧠 Actualmente estoy trabajando en
+
+🚀 DASH.IO
+
+Una plataforma donde la Inteligencia Artificial trabaja como un verdadero compañero de desarrollo.
+
+Incluye:
+
+- Agentes especializados
+- Automatización del flujo de trabajo
+- Integración con múltiples modelos de IA
+- Arquitectura escalable
+- Interfaces modernas
+- Herramientas para desarrolladores
+
+---
+
+# 🌱 Actualmente aprendiendo
+
+- Sistemas Multi-Agente
+- Model Context Protocol (MCP)
+- IA Local
+- Computer Vision
+- Fine-Tuning
+- Retrieval Augmented Generation (RAG)
+- Arquitecturas Distribuidas
+- Optimización de LLMs
+
+---
+
+# 💡 Me apasiona
+
+- 🤖 Inteligencia Artificial
+- 🚀 Crear productos innovadores
+- 🎮 Videojuegos
+- 🛰️ Ciencia y Tecnología
+- ⚙️ Automatización
+- 📈 Optimización de procesos
+- 🧠 Aprender tecnologías emergentes
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Actividad
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🤝 Conectemos
+
+- 💼 LinkedIn
+- 🌐 Portafolio
+- 📧 Email
+
+---
+
+<div align="center">
+
+## ⚡ "El mejor software no solo resuelve problemas; crea nuevas posibilidades."
+
 </div>
 
 <br>
@@ -73,37 +264,16 @@
 <!-- Animación de separador -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 Mis Estadísticas de GitHub
+## 📅 Mi Actividad y Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huetio&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=10&include_all_commits=true" alt="Estadísticas de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huetio&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&border_radius=10" alt="Lenguajes más usados" />
-</div>
-
-<div align="center">
+  <!-- Gráfico de calendario estilo GitHub con animación -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=huetio&bg_color=0d1117&color=2f81f7&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Gráfico de actividad" />
-</div>
-
-<!-- Animación de separador -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🐍 Simulación de Colores: Mi Actividad
-
-<!-- La serpiente de contribuciones (Requiere la GitHub Action configurada) -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/huetio/huetio/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
-</div>
-
-<!-- Animación de separador -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-## 🏆 Logros de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huetio&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub" />
+  
+  <br><br>
+  
+  <!-- Calendario visual de contribuciones -->
+  <img src="https://ghchart.rshah.org/2f81f7/huetio" alt="Calendario de contribuciones de huetio" />
 </div>
 
 <!-- Animación de separador -->
@@ -112,7 +282,7 @@
 ## 👁️ Contador de Visitas
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/huetio/count.svg" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=huetio&label=Visitas+al+perfil&color=0e75b6&style=for-the-badge" alt="Contador de visitas" />
 </div>
 
 <!-- Animación de despedida con gradiente -->
@@ -124,3 +294,39 @@
 <div align="center">
   <i>✨ ¡Si te gusta mi trabajo, no dudes en seguirme o dejar una ⭐ en mis repositorios! ✨</i>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
