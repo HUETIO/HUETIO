@@ -1,149 +1,111 @@
-<!-- Banner Superior -->
+# ¡Hola, soy Diego Alejandro Sepulveda Huetio! 👋
+
+### Desarrollador Full Stack | Entusiasta de la Tecnología | Creador de Soluciones Digitales
+
+<!-- Animación de escritura para el título -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" alt="Banner de código"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Desarrollador+FullStack;Apasionado+por+la+tecnología;Creador+de+soluciones+digitales" alt="Typing SVG" />
 </div>
 
-<br>
+<!-- Ola animada -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=&fontSize=0&fontColor=fff&animation=twinkling"/>
 
-<!-- Encabezado Principal -->
+## 🧑‍💻 Sobre mí
+
 <div align="center">
-  <h1>
-    Hola, soy Diego Sepulveda (DASH)
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="Hola">
-  </h1>
-  <h3>Ingeniero de Software | Desarrollador Full-Stack | Entusiasta de la Ciberseguridad</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200" alt="Coding">
 </div>
 
-<br>
+- 🔭 Actualmente estoy trabajando en **proyectos personales y colaboraciones open source**
+- 🌱 Aprendiendo sobre **Inteligencia Artificial, Cloud Computing y DevOps**
+- 💬 Pregúntame sobre **Python, JavaScript, React, Node.js y Bases de datos**
+- 📫 Cómo contactarme: **develop1998@outlook.es**
+- ⚡ Dato curioso: **Me encanta resolver problemas complejos y aprender nuevas tecnologías cada día**
 
-<!-- Sección Sobre Mí -->
-<details align="center">
-  <summary>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px" alt="Icono de información">&nbsp;
-    <strong>Haz clic para saber más sobre mí</strong>
-  </summary>
-  
-  <br>
-  
-  <p align="left">
-    ✔ Soy un <b>Ingeniero de Software</b> apasionado por crear soluciones tecnológicas eficientes y seguras. Mi objetivo es construir software robusto que resuelva problemas del mundo real. 😊<br><br>
-    ✔ Mi principal área de especialización es el <b>desarrollo backend con Java</b>, donde me enfoco en la arquitectura de sistemas escalables y la optimización del rendimiento.<br><br>
-    ✔ Tengo un fuerte interés en la <b>Ciberseguridad y el Hacking Ético</b>, lo que me permite abordar el desarrollo con una mentalidad proactiva, identificando y mitigando vulnerabilidades antes de que se conviertan en un problema.<br><br>
-    ✔ Estoy abierto a <b>colaborar en proyectos de código abierto</b> que presenten desafíos técnicos interesantes, especialmente en el ámbito de la seguridad o el desarrollo de sistemas complejos.<br><br>
-    ✔ <b>Dato curioso:</b> Mi lema es "aprender, implementar y consolidar". Dedico tiempo a asimilar nuevos conocimientos para luego aplicarlos de manera efectiva en mis proyectos. 😎
-  </p>
-</details>
+<!-- Animación de separador -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<br>
+## 🌐 Conecta conmigo
+
+<!-- Badges animados con efecto hover -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/huetio/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/huetio" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=24292e" alt="GitHub">
+  </a>
+  <a href="mailto:develop1998@outlook.es" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=005a9e" alt="Email">
+  </a>
+</div>
+
+<!-- Animación de separador -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🛠️ Tecnologías y Herramientas
+
+<!-- Barras de habilidades animadas -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+</div>
+
+<!-- Animación de separador -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 Mis Estadísticas de GitHub
+
+<!-- Estadísticas con animación de carga -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huetio&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&border_radius=10&include_all_commits=true" alt="Estadísticas de GitHub" />
+</div>
+
+<!-- Gráfico de lenguajes con animación -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huetio&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&border_radius=10" alt="Lenguajes más usados" />
+</div>
+
+<!-- Gráfico de actividad reciente -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huetio&bg_color=0d1117&color=2f81f7&line=2f81f7&point=2f81f7&area=true&hide_border=true" alt="Gráfico de actividad" />
+</div>
+
+<!-- Animación de separador -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 Logros de GitHub
+
+<!-- Trofeos animados -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=huetio&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trofeos de GitHub" />
+</div>
+
+<!-- Animación de separador -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 👁️ Contador de Visitas
+
+<!-- Contador con animación -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/huetio/count.svg" alt="Contador de visitas" />
+</div>
+
+<!-- Animación de despedida -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=¡Gracias+por+visitar!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+</div>
 
 ---
-
-<!-- Mi Stack Tecnológico -->
 <div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/I27b6iLSjw8W47y2S8/giphy.gif" width="40px" alt="Stack">
-    Mi Stack Tecnológico
-  </h2>
-  
-  <p>Estas son algunas de las tecnologías y herramientas con las que trabajo diariamente.</p>
-  
-  <table width="100%">
-    <tr>
-      <td align="center" width="20%">
-        <strong>Backend</strong><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" alt="Java"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" alt="Go"/>
-      </td>
-      <td align="center" width="20%">
-        <strong>Frontend</strong><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" alt="Svelte"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-      </td>
-      <td align="center" width="20%">
-        <strong>Bases de Datos</strong><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
-      </td>
-      <td align="center" width="20%">
-        <strong>Seguridad</strong><br>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg" width="40" alt="Kali Linux"/>
-        <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" width="40" alt="Wireshark"/>
-        <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" width="40" alt="Metasploit"/>
-      </td>
-      <td align="center" width="20%">
-        <strong>Herramientas</strong><br>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-<!-- Sección de Código en Movimiento -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="35px" alt="Terminal">
-    Apasionado por el Código
-  </h2>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Animación de código en cascada" width="600"/>
-</div>
-<br>
----
-
-<!-- Sección de Código en Movimiento -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/u2pmLmV6p9TMI/giphy.gif" width="35" alt="Teclado">
-    Siempre Construyendo Algo Nuevo
-  </h2>
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Animación de desarrollo de software" width="600"/>
-</div>
-<br>
----
-<!-- Sección de Código en Movimiento -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/I27b6iLSjw8W47y2S8/giphy.gif" width="40px" alt="Stack">
-    Programando Soluciones...
-  </h2>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programador escribiendo código" width="600"/>
-</div>
-<br>
----
-
-<!-- Conecta Conmigo -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZzZHFpZmxjbDJ5aWJ2YWtjaHhyeXAwNmd4d2w0bGl1bHNzY2g3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cmzK29aGchg5j6aT4q/giphy.gif" width="40px" alt="Contacto">
-    Conecta Conmigo
-  </h2>
-  
-  <p>¡No dudes en contactarme! Siempre estoy abierto a discutir nuevos proyectos, ideas creativas o cualquier otra cosa.</p>
-  
-  <p>
-    <a href="mailto:Develop1998@outlook.es">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://www.linkedin.com/in/huetio/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://wa.me/573237722134">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-    </a>
-  </p>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/line-break.gif" width="100%" />
-  <p><small>Última actualización: 08 de Septiembre de 2025</small></p>
+  <i>✨ ¡Si te gusta mi trabajo, no dudes en seguirme o dejar una ⭐ en mis repositorios! ✨</i>
 </div>
